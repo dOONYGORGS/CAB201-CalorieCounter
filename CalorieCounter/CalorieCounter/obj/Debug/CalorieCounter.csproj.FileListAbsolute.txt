@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe.config
+C:\Users\jacob\source\repos\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe
+C:\Users\jacob\source\repos\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.pdb
+C:\Users\jacob\source\repos\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.exe
+C:\Users\jacob\source\repos\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.pdb
